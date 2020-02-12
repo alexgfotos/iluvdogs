@@ -1,8 +1,16 @@
 h1 {
-    background: linear-gradient(grey, white);
+    font-size: 50px;
     text-align: center;
     padding: 20px;
     color: white;
+    background: linear-gradient(grey, white);
+}
+
+h2 {
+    padding: 30px;
+    margin-left: -30px;
+    font-style: oblique;
+    font-size: 30px;
 }
 
 img {
